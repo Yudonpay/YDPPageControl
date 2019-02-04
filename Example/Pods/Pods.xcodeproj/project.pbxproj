@@ -7,84 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		03605209926D8F11C3A87DE1934CCDDF /* Pods-YDPPageControl_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D86FE6EACEEC61893D1F6B4E3A9E15F /* Pods-YDPPageControl_Example-dummy.m */; };
 		0CCC5139447634ACE99B34C55EA3DED3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		11D60550343A527A2BAD3DD4EA1B0D49 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		340D1CDB87D2FC1A5D4E5DF208BA30B0 /* Pods-YDPPageControl_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C3FC01526DF08C7076DFFCDD350E6CC /* Pods-YDPPageControl_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8F798BAF402F1A70CD18287969905181 /* YDPPageControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 74941D389A341496749808EDF3247F61 /* YDPPageControl-dummy.m */; };
-		9EE7BE43135F87C1EFDF722C359E2A3D /* YDPPageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B011ED9363057AFB26451D09BBB89B /* YDPPageControl.swift */; };
-		A0DCD6777364D6E9F0595A877F678856 /* Pods-YDPPageControl_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 04200B5FF32B670527413EE45FC5AA66 /* Pods-YDPPageControl_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BF17E4A572D553D0541E8968198C7220 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		CBFA2BFDDA5FC5AAD4779394C5A8CD4A /* Pods-YDPPageControl_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8380979479CF43FE1A992EBF6526D988 /* Pods-YDPPageControl_Tests-dummy.m */; };
-		E3D72E89D151A3A152D8358A5DA660DE /* YDPPageControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DF37815B5FE0A95DAD61080F68A7FC02 /* YDPPageControl-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		340D1CDB87D2FC1A5D4E5DF208BA30B0 /* Pods-YDPPageControl_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A1BCEEAB02471C165C768AF4E62E00C /* Pods-YDPPageControl_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8568D455A8DFCC255CD592F45051E822 /* Pods-YDPPageControl_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CC88C54D1F6313CED9F18213FF50D65C /* Pods-YDPPageControl_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B28D1A7DD95792A9688FE0A35862CC3C /* Pods-YDPPageControl_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 78779FD596B922EB7DCFE1EBBA72B810 /* Pods-YDPPageControl_Example-dummy.m */; };
+		CBFA2BFDDA5FC5AAD4779394C5A8CD4A /* Pods-YDPPageControl_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DCEE201152A3A9CACD5581589A327E9 /* Pods-YDPPageControl_Tests-dummy.m */; };
+		F748D0E67B9987ED85AD30014604BD4D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0AC61C71DE60B529F4770D7B21B9D708 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = FBA67B30A3BA8856E09A24FEBED541BE;
-			remoteInfo = YDPPageControl;
-		};
 		7F170FDFAFC2D2CD0653E18A3006B18C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 87372D43975E356E3BAF3CE2C59C5B7E;
+			remoteGlobalIDString = C514B59598091ED8B264805EC9C9E8A2;
 			remoteInfo = "Pods-YDPPageControl_Example";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04200B5FF32B670527413EE45FC5AA66 /* Pods-YDPPageControl_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YDPPageControl_Example-umbrella.h"; sourceTree = "<group>"; };
-		04B011ED9363057AFB26451D09BBB89B /* YDPPageControl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YDPPageControl.swift; path = YDPPageControl/Classes/YDPPageControl.swift; sourceTree = "<group>"; };
-		086A4A7AD16364296466AC4F106558E9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		0C3FC01526DF08C7076DFFCDD350E6CC /* Pods-YDPPageControl_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YDPPageControl_Tests-umbrella.h"; sourceTree = "<group>"; };
-		0EF6B67C9A56DB46A25F8D523D26D7E0 /* Pods-YDPPageControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2BC900286C510B847D5AB4447BEBD744 /* YDPPageControl.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = YDPPageControl.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		3D86FE6EACEEC61893D1F6B4E3A9E15F /* Pods-YDPPageControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YDPPageControl_Example-dummy.m"; sourceTree = "<group>"; };
-		50956B02CA5D730742794D898ADE1BCC /* YDPPageControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = YDPPageControl.modulemap; sourceTree = "<group>"; };
-		5229C111A1D81DE9AC68861B6A708965 /* Pods-YDPPageControl_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		5A9379F630B9DE8561AF0DFFAFF5C672 /* Pods_YDPPageControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YDPPageControl_Tests.framework; path = "Pods-YDPPageControl_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		74941D389A341496749808EDF3247F61 /* YDPPageControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YDPPageControl-dummy.m"; sourceTree = "<group>"; };
-		7D466D696F18FF9B56E0B9F56A092A0C /* Pods-YDPPageControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		8380979479CF43FE1A992EBF6526D988 /* Pods-YDPPageControl_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YDPPageControl_Tests-dummy.m"; sourceTree = "<group>"; };
-		845D35716143DDAE97948EAADAEA12C1 /* Pods-YDPPageControl_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-YDPPageControl_Example-frameworks.sh"; sourceTree = "<group>"; };
-		8C8B85E66EC0287B8025B1D6F310CC31 /* YDPPageControl.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YDPPageControl.xcconfig; sourceTree = "<group>"; };
-		8D3E39EC3AEBB3BF0502A5364408E038 /* YDPPageControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YDPPageControl-prefix.pch"; sourceTree = "<group>"; };
-		93C23BA077B20B9F4F96579EE4AC2C69 /* Pods-YDPPageControl_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		99D4447F6AD53825AA461E9D17243562 /* Pods-YDPPageControl_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YDPPageControl_Tests.modulemap"; sourceTree = "<group>"; };
+		00164870F34A438292532619E94B70B4 /* Pods-YDPPageControl_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Example-Info.plist"; sourceTree = "<group>"; };
+		1820874D6583BC0487E464AEB7D306BC /* Pods-YDPPageControl_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		1A1BCEEAB02471C165C768AF4E62E00C /* Pods-YDPPageControl_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YDPPageControl_Tests-umbrella.h"; sourceTree = "<group>"; };
+		24E7974C24871E383480643F90EC8CBC /* Pods-YDPPageControl_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YDPPageControl_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		65BCD8FDAD5C273AA902316C6CB8B0ED /* Pods-YDPPageControl_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YDPPageControl_Tests.modulemap"; sourceTree = "<group>"; };
+		6DCEE201152A3A9CACD5581589A327E9 /* Pods-YDPPageControl_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YDPPageControl_Tests-dummy.m"; sourceTree = "<group>"; };
+		78779FD596B922EB7DCFE1EBBA72B810 /* Pods-YDPPageControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YDPPageControl_Example-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		B16B43D8989345ACA76F0D3E0EAC4A5F /* YDPPageControl-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YDPPageControl-Info.plist"; sourceTree = "<group>"; };
-		BE4EAB8EC25108F2484A37E2CB4ECD76 /* Pods_YDPPageControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YDPPageControl_Example.framework; path = "Pods-YDPPageControl_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF4556EC80B2D2E71B1A31467CED0B70 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		9D973E6015123F8A8A860B09851311CB /* Pods-YDPPageControl_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Tests-Info.plist"; sourceTree = "<group>"; };
+		A2CD773CFBAD3C281B426696B4EE2811 /* Pods-YDPPageControl_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		A3C26E99273204AE72A430E5AE0C2E9E /* Pods_YDPPageControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YDPPageControl_Tests.framework; path = "Pods-YDPPageControl_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A87B358F4DA365746D59B123D1F6B2FC /* Pods-YDPPageControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		A93699CFB4C08810100D94EB6ADAA42F /* Pods-YDPPageControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YDPPageControl_Example.modulemap"; sourceTree = "<group>"; };
+		B08E8F66B916FA8615CDD95870741332 /* Pods-YDPPageControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		CBEDC9519B1B2F54364E5D9569A6E3DD /* Pods-YDPPageControl_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Tests-Info.plist"; sourceTree = "<group>"; };
-		D8BB6B277CD436D1C7627BEDE018FC95 /* Pods-YDPPageControl_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-YDPPageControl_Example-Info.plist"; sourceTree = "<group>"; };
-		DBDA3A2F56E4BC66F2D961282FE7BBD2 /* Pods-YDPPageControl_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YDPPageControl_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		DF37815B5FE0A95DAD61080F68A7FC02 /* YDPPageControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YDPPageControl-umbrella.h"; sourceTree = "<group>"; };
-		E77C01BED92124694C7EC5F0945AF911 /* YDPPageControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = YDPPageControl.framework; path = YDPPageControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E80FE59F27F07B918B1AC29E2FEEB1E1 /* Pods-YDPPageControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-YDPPageControl_Example.modulemap"; sourceTree = "<group>"; };
-		E9771A3CBC387EB543F9AA0FC5CF7BB0 /* Pods-YDPPageControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Example.release.xcconfig"; sourceTree = "<group>"; };
-		EAE3656C8C7913D1ECD074C749C0371B /* Pods-YDPPageControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F02E5AED07FF09E77CDFD6D37A0B24E5 /* Pods-YDPPageControl_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YDPPageControl_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		CC88C54D1F6313CED9F18213FF50D65C /* Pods-YDPPageControl_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-YDPPageControl_Example-umbrella.h"; sourceTree = "<group>"; };
+		D9CA58CF024E4D980DCDD8D79C3F4BCE /* Pods-YDPPageControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		DC73CF8D47FF65255F751743E3C0B630 /* Pods-YDPPageControl_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-YDPPageControl_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		EB050FFA15EECC267E2777A522F67FD1 /* Pods_YDPPageControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_YDPPageControl_Example.framework; path = "Pods-YDPPageControl_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5EC890C587C293171271555DCBA300A /* Pods-YDPPageControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-YDPPageControl_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0F5CBA9256306B4D956AE190CB928644 /* Frameworks */ = {
+		CB0E475D1E64CD41F21152F396E98E6A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF17E4A572D553D0541E8968198C7220 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D3472DAF6DEB1BBDBF0B853F4B2C5A63 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				11D60550343A527A2BAD3DD4EA1B0D49 /* Foundation.framework in Frameworks */,
+				F748D0E67B9987ED85AD30014604BD4D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,72 +68,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		08A97F756B933A0CC3C25CE681786905 /* YDPPageControl */ = {
+		3709699EF7BDBBE4D8DD907AFAB7CE5F /* Pods-YDPPageControl_Example */ = {
 			isa = PBXGroup;
 			children = (
-				04B011ED9363057AFB26451D09BBB89B /* YDPPageControl.swift */,
-				3604BD4C839EEC7A0154E55491C3144C /* Pod */,
-				D1DC8339B7772BB189A816AA5A9C0564 /* Support Files */,
-			);
-			name = YDPPageControl;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		1B4E7DD855D048C1CA5B1821F55B966A /* Pods-YDPPageControl_Example */ = {
-			isa = PBXGroup;
-			children = (
-				E80FE59F27F07B918B1AC29E2FEEB1E1 /* Pods-YDPPageControl_Example.modulemap */,
-				DBDA3A2F56E4BC66F2D961282FE7BBD2 /* Pods-YDPPageControl_Example-acknowledgements.markdown */,
-				5229C111A1D81DE9AC68861B6A708965 /* Pods-YDPPageControl_Example-acknowledgements.plist */,
-				3D86FE6EACEEC61893D1F6B4E3A9E15F /* Pods-YDPPageControl_Example-dummy.m */,
-				845D35716143DDAE97948EAADAEA12C1 /* Pods-YDPPageControl_Example-frameworks.sh */,
-				D8BB6B277CD436D1C7627BEDE018FC95 /* Pods-YDPPageControl_Example-Info.plist */,
-				04200B5FF32B670527413EE45FC5AA66 /* Pods-YDPPageControl_Example-umbrella.h */,
-				0EF6B67C9A56DB46A25F8D523D26D7E0 /* Pods-YDPPageControl_Example.debug.xcconfig */,
-				E9771A3CBC387EB543F9AA0FC5CF7BB0 /* Pods-YDPPageControl_Example.release.xcconfig */,
+				A93699CFB4C08810100D94EB6ADAA42F /* Pods-YDPPageControl_Example.modulemap */,
+				DC73CF8D47FF65255F751743E3C0B630 /* Pods-YDPPageControl_Example-acknowledgements.markdown */,
+				1820874D6583BC0487E464AEB7D306BC /* Pods-YDPPageControl_Example-acknowledgements.plist */,
+				78779FD596B922EB7DCFE1EBBA72B810 /* Pods-YDPPageControl_Example-dummy.m */,
+				00164870F34A438292532619E94B70B4 /* Pods-YDPPageControl_Example-Info.plist */,
+				CC88C54D1F6313CED9F18213FF50D65C /* Pods-YDPPageControl_Example-umbrella.h */,
+				A87B358F4DA365746D59B123D1F6B2FC /* Pods-YDPPageControl_Example.debug.xcconfig */,
+				F5EC890C587C293171271555DCBA300A /* Pods-YDPPageControl_Example.release.xcconfig */,
 			);
 			name = "Pods-YDPPageControl_Example";
 			path = "Target Support Files/Pods-YDPPageControl_Example";
 			sourceTree = "<group>";
 		};
-		211905D764049D9C21A9873ACB78FC49 /* Development Pods */ = {
+		4192D6D3ACC5AD284EF0917889B5BBAC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				08A97F756B933A0CC3C25CE681786905 /* YDPPageControl */,
+				EB050FFA15EECC267E2777A522F67FD1 /* Pods_YDPPageControl_Example.framework */,
+				A3C26E99273204AE72A430E5AE0C2E9E /* Pods_YDPPageControl_Tests.framework */,
 			);
-			name = "Development Pods";
+			name = Products;
 			sourceTree = "<group>";
 		};
-		3604BD4C839EEC7A0154E55491C3144C /* Pod */ = {
+		94C88D5640AF5B9612A899B6BE877993 /* Pods-YDPPageControl_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				086A4A7AD16364296466AC4F106558E9 /* LICENSE */,
-				BF4556EC80B2D2E71B1A31467CED0B70 /* README.md */,
-				2BC900286C510B847D5AB4447BEBD744 /* YDPPageControl.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		3AD0EA08832315072CAC7474614397C4 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				1B4E7DD855D048C1CA5B1821F55B966A /* Pods-YDPPageControl_Example */,
-				4BE606180629CBBC38C4F858FDB37FA5 /* Pods-YDPPageControl_Tests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		4BE606180629CBBC38C4F858FDB37FA5 /* Pods-YDPPageControl_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				99D4447F6AD53825AA461E9D17243562 /* Pods-YDPPageControl_Tests.modulemap */,
-				F02E5AED07FF09E77CDFD6D37A0B24E5 /* Pods-YDPPageControl_Tests-acknowledgements.markdown */,
-				93C23BA077B20B9F4F96579EE4AC2C69 /* Pods-YDPPageControl_Tests-acknowledgements.plist */,
-				8380979479CF43FE1A992EBF6526D988 /* Pods-YDPPageControl_Tests-dummy.m */,
-				CBEDC9519B1B2F54364E5D9569A6E3DD /* Pods-YDPPageControl_Tests-Info.plist */,
-				0C3FC01526DF08C7076DFFCDD350E6CC /* Pods-YDPPageControl_Tests-umbrella.h */,
-				7D466D696F18FF9B56E0B9F56A092A0C /* Pods-YDPPageControl_Tests.debug.xcconfig */,
-				EAE3656C8C7913D1ECD074C749C0371B /* Pods-YDPPageControl_Tests.release.xcconfig */,
+				65BCD8FDAD5C273AA902316C6CB8B0ED /* Pods-YDPPageControl_Tests.modulemap */,
+				24E7974C24871E383480643F90EC8CBC /* Pods-YDPPageControl_Tests-acknowledgements.markdown */,
+				A2CD773CFBAD3C281B426696B4EE2811 /* Pods-YDPPageControl_Tests-acknowledgements.plist */,
+				6DCEE201152A3A9CACD5581589A327E9 /* Pods-YDPPageControl_Tests-dummy.m */,
+				9D973E6015123F8A8A860B09851311CB /* Pods-YDPPageControl_Tests-Info.plist */,
+				1A1BCEEAB02471C165C768AF4E62E00C /* Pods-YDPPageControl_Tests-umbrella.h */,
+				D9CA58CF024E4D980DCDD8D79C3F4BCE /* Pods-YDPPageControl_Tests.debug.xcconfig */,
+				B08E8F66B916FA8615CDD95870741332 /* Pods-YDPPageControl_Tests.release.xcconfig */,
 			);
 			name = "Pods-YDPPageControl_Tests";
 			path = "Target Support Files/Pods-YDPPageControl_Tests";
@@ -178,39 +117,23 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		B9DBFCFE4DB13F2E09F422B6B94865F9 /* Products */ = {
+		CE8BCC2308EFFDE058B1993CCA0EE511 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				BE4EAB8EC25108F2484A37E2CB4ECD76 /* Pods_YDPPageControl_Example.framework */,
-				5A9379F630B9DE8561AF0DFFAFF5C672 /* Pods_YDPPageControl_Tests.framework */,
-				E77C01BED92124694C7EC5F0945AF911 /* YDPPageControl.framework */,
+				3709699EF7BDBBE4D8DD907AFAB7CE5F /* Pods-YDPPageControl_Example */,
+				94C88D5640AF5B9612A899B6BE877993 /* Pods-YDPPageControl_Tests */,
 			);
-			name = Products;
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				211905D764049D9C21A9873ACB78FC49 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				B9DBFCFE4DB13F2E09F422B6B94865F9 /* Products */,
-				3AD0EA08832315072CAC7474614397C4 /* Targets Support Files */,
+				4192D6D3ACC5AD284EF0917889B5BBAC /* Products */,
+				CE8BCC2308EFFDE058B1993CCA0EE511 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		D1DC8339B7772BB189A816AA5A9C0564 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				50956B02CA5D730742794D898ADE1BCC /* YDPPageControl.modulemap */,
-				8C8B85E66EC0287B8025B1D6F310CC31 /* YDPPageControl.xcconfig */,
-				74941D389A341496749808EDF3247F61 /* YDPPageControl-dummy.m */,
-				B16B43D8989345ACA76F0D3E0EAC4A5F /* YDPPageControl-Info.plist */,
-				8D3E39EC3AEBB3BF0502A5364408E038 /* YDPPageControl-prefix.pch */,
-				DF37815B5FE0A95DAD61080F68A7FC02 /* YDPPageControl-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/YDPPageControl";
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -224,19 +147,11 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		6236CEADD43D1BFBEF1D5E2C08B00723 /* Headers */ = {
+		33A1EE339213BDD7D9EB0CF63060C7E4 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0DCD6777364D6E9F0595A877F678856 /* Pods-YDPPageControl_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6CB9D3D69E2CF5199EEEFA9FECD5E332 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E3D72E89D151A3A152D8358A5DA660DE /* YDPPageControl-umbrella.h in Headers */,
+				8568D455A8DFCC255CD592F45051E822 /* Pods-YDPPageControl_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,44 +182,25 @@
 			);
 			name = "Pods-YDPPageControl_Tests";
 			productName = "Pods-YDPPageControl_Tests";
-			productReference = 5A9379F630B9DE8561AF0DFFAFF5C672 /* Pods_YDPPageControl_Tests.framework */;
+			productReference = A3C26E99273204AE72A430E5AE0C2E9E /* Pods_YDPPageControl_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		87372D43975E356E3BAF3CE2C59C5B7E /* Pods-YDPPageControl_Example */ = {
+		C514B59598091ED8B264805EC9C9E8A2 /* Pods-YDPPageControl_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56486EC1FA02BC9B330271753E4683F7 /* Build configuration list for PBXNativeTarget "Pods-YDPPageControl_Example" */;
+			buildConfigurationList = 56A8604C2E8E94BE83FF0DD2CA86834B /* Build configuration list for PBXNativeTarget "Pods-YDPPageControl_Example" */;
 			buildPhases = (
-				6236CEADD43D1BFBEF1D5E2C08B00723 /* Headers */,
-				DC245BF1726CC1D6E0595CC11D6CAC17 /* Sources */,
-				D3472DAF6DEB1BBDBF0B853F4B2C5A63 /* Frameworks */,
-				82CCA8BEE32450BFB47F70272F145827 /* Resources */,
+				33A1EE339213BDD7D9EB0CF63060C7E4 /* Headers */,
+				1222A591888ADE871971E409B57A49B5 /* Sources */,
+				CB0E475D1E64CD41F21152F396E98E6A /* Frameworks */,
+				ACD047F7CC7FA5CEF9E9411CE5386501 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				EBB4792738420C61018A3A5D69643212 /* PBXTargetDependency */,
 			);
 			name = "Pods-YDPPageControl_Example";
 			productName = "Pods-YDPPageControl_Example";
-			productReference = BE4EAB8EC25108F2484A37E2CB4ECD76 /* Pods_YDPPageControl_Example.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		FBA67B30A3BA8856E09A24FEBED541BE /* YDPPageControl */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D31C02CB07C837F82DA50362C0E9A824 /* Build configuration list for PBXNativeTarget "YDPPageControl" */;
-			buildPhases = (
-				6CB9D3D69E2CF5199EEEFA9FECD5E332 /* Headers */,
-				481572EFDBC4E04EE63F57FC866052C4 /* Sources */,
-				0F5CBA9256306B4D956AE190CB928644 /* Frameworks */,
-				C48C8FF9341922627A84545914CA3A43 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = YDPPageControl;
-			productName = YDPPageControl;
-			productReference = E77C01BED92124694C7EC5F0945AF911 /* YDPPageControl.framework */;
+			productReference = EB050FFA15EECC267E2777A522F67FD1 /* Pods_YDPPageControl_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -324,13 +220,12 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = B9DBFCFE4DB13F2E09F422B6B94865F9 /* Products */;
+			productRefGroup = 4192D6D3ACC5AD284EF0917889B5BBAC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				87372D43975E356E3BAF3CE2C59C5B7E /* Pods-YDPPageControl_Example */,
+				C514B59598091ED8B264805EC9C9E8A2 /* Pods-YDPPageControl_Example */,
 				4200B2D467F9CF572F0F8E07127BCA6B /* Pods-YDPPageControl_Tests */,
-				FBA67B30A3BA8856E09A24FEBED541BE /* YDPPageControl */,
 			);
 		};
 /* End PBXProject section */
@@ -343,14 +238,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82CCA8BEE32450BFB47F70272F145827 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C48C8FF9341922627A84545914CA3A43 /* Resources */ = {
+		ACD047F7CC7FA5CEF9E9411CE5386501 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -360,20 +248,11 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		481572EFDBC4E04EE63F57FC866052C4 /* Sources */ = {
+		1222A591888ADE871971E409B57A49B5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F798BAF402F1A70CD18287969905181 /* YDPPageControl-dummy.m in Sources */,
-				9EE7BE43135F87C1EFDF722C359E2A3D /* YDPPageControl.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DC245BF1726CC1D6E0595CC11D6CAC17 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				03605209926D8F11C3A87DE1934CCDDF /* Pods-YDPPageControl_Example-dummy.m in Sources */,
+				B28D1A7DD95792A9688FE0A35862CC3C /* Pods-YDPPageControl_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -391,21 +270,15 @@
 		02A60E254CCC48BF88555731F79EABEE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-YDPPageControl_Example";
-			target = 87372D43975E356E3BAF3CE2C59C5B7E /* Pods-YDPPageControl_Example */;
+			target = C514B59598091ED8B264805EC9C9E8A2 /* Pods-YDPPageControl_Example */;
 			targetProxy = 7F170FDFAFC2D2CD0653E18A3006B18C /* PBXContainerItemProxy */;
-		};
-		EBB4792738420C61018A3A5D69643212 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = YDPPageControl;
-			target = FBA67B30A3BA8856E09A24FEBED541BE /* YDPPageControl */;
-			targetProxy = 0AC61C71DE60B529F4770D7B21B9D708 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		5837CE9402A49C119CAD59D86CB8B6BF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EAE3656C8C7913D1ECD074C749C0371B /* Pods-YDPPageControl_Tests.release.xcconfig */;
+			baseConfigurationReference = B08E8F66B916FA8615CDD95870741332 /* Pods-YDPPageControl_Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -436,39 +309,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		818EDF8B345B2A4A7AF7368AFA562032 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0EF6B67C9A56DB46A25F8D523D26D7E0 /* Pods-YDPPageControl_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		AB4D69770D8ACE3A05E80BB3502666F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -536,7 +376,7 @@
 		};
 		B1CBC387F203BD0D2FEB76E6F2EBCF3C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7D466D696F18FF9B56E0B9F56A092A0C /* Pods-YDPPageControl_Tests.debug.xcconfig */;
+			baseConfigurationReference = D9CA58CF024E4D980DCDD8D79C3F4BCE /* Pods-YDPPageControl_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -567,10 +407,11 @@
 			};
 			name = Debug;
 		};
-		DAEE4525C1094BDF9C7EE894788DFE15 /* Debug */ = {
+		D705191CB74F2055C00BDD63221FFEB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8C8B85E66EC0287B8025B1D6F310CC31 /* YDPPageControl.xcconfig */;
+			baseConfigurationReference = A87B358F4DA365746D59B123D1F6B2FC /* Pods-YDPPageControl_Example.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -580,28 +421,30 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YDPPageControl/YDPPageControl-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YDPPageControl/YDPPageControl-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YDPPageControl/YDPPageControl.modulemap";
-				PRODUCT_MODULE_NAME = YDPPageControl;
-				PRODUCT_NAME = YDPPageControl;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		E51D736280F55EC2E8E4C78ECB672678 /* Release */ = {
+		D7B486BB3CB43F8C0F663BAC74D49186 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8C8B85E66EC0287B8025B1D6F310CC31 /* YDPPageControl.xcconfig */;
+			baseConfigurationReference = F5EC890C587C293171271555DCBA300A /* Pods-YDPPageControl_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -611,18 +454,19 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/YDPPageControl/YDPPageControl-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/YDPPageControl/YDPPageControl-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/YDPPageControl/YDPPageControl.modulemap";
-				PRODUCT_MODULE_NAME = YDPPageControl;
-				PRODUCT_NAME = YDPPageControl;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -690,40 +534,6 @@
 			};
 			name = Release;
 		};
-		FEE0BAABDF1FC803F6122BDD7A8D4F0A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E9771A3CBC387EB543F9AA0FC5CF7BB0 /* Pods-YDPPageControl_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-YDPPageControl_Example/Pods-YDPPageControl_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -745,20 +555,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		56486EC1FA02BC9B330271753E4683F7 /* Build configuration list for PBXNativeTarget "Pods-YDPPageControl_Example" */ = {
+		56A8604C2E8E94BE83FF0DD2CA86834B /* Build configuration list for PBXNativeTarget "Pods-YDPPageControl_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				818EDF8B345B2A4A7AF7368AFA562032 /* Debug */,
-				FEE0BAABDF1FC803F6122BDD7A8D4F0A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D31C02CB07C837F82DA50362C0E9A824 /* Build configuration list for PBXNativeTarget "YDPPageControl" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DAEE4525C1094BDF9C7EE894788DFE15 /* Debug */,
-				E51D736280F55EC2E8E4C78ECB672678 /* Release */,
+				D705191CB74F2055C00BDD63221FFEB3 /* Debug */,
+				D7B486BB3CB43F8C0F663BAC74D49186 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
