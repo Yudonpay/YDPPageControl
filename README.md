@@ -2,7 +2,7 @@
 <img src="https://github.com/Yudonpay/YDPPageControl/blob/master/Resources/pageControl.gif">
 </p>
 <div align="center">
-<h1> YDPCard</h1>
+<h1> YDPPageControl</h1>
 </div>
 
 [![Version](https://img.shields.io/cocoapods/v/YDPCard.svg?style=flat)](https://cocoapods.org/pods/YDPCard)
