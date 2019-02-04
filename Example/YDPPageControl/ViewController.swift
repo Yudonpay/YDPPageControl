@@ -3,7 +3,7 @@
 //  YDPPageControl
 //
 //  Created by José Miguel Herrero on 01/02/2019.
-//  Copyright © 2019 José Miguel Herrero. All rights reserved.
+//  Copyright © 2019 Smart Dreams Factory. All rights reserved.
 //
 
 import UIKit
