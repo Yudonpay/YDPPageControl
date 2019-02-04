@@ -1,0 +1,6 @@
+framework module YDPPageControl {
+  umbrella header "YDPPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
