@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'YDPPageControl_Example' do
+  pod 'YDPPageControl', :path => '../'
+
+  target 'YDPPageControl_Tests' do
+    inherit! :search_paths
+  end
+end

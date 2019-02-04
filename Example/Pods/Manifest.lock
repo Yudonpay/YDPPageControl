@@ -1,0 +1,16 @@
+PODS:
+  - YDPPageControl (0.1.0)
+
+DEPENDENCIES:
+  - YDPPageControl (from `../`)
+
+EXTERNAL SOURCES:
+  YDPPageControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YDPPageControl: fbabd3287e106c0464b13d1aee50a916b6a25f11
+
+PODFILE CHECKSUM: 038143b129a12b52b6a387445e979d7c4e30c38f
+
+COCOAPODS: 1.6.0.rc.2
